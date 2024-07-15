@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @lisboagabriel
-- 👀 Estou estudando para me tornar um Analista de Qualidade (QA)
+- 👀 Estou me dedicando para me tornar um Analista de Qualidade (QA)
 - 🌱 Atualmente, estou aprendendo automatização de testes E2E, com Cypress
 
 <!---
